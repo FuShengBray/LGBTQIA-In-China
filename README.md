@@ -124,6 +124,7 @@
 - [Misaka10042🍥](https://github.com/mis1042)
 - [DomeenoH](https://github.com/DomeenoH)
 - [Jarry Shaw](https://github.com/JarryShaw)
+- [FuSheng](https://github.com/FuShengGray)
   <!-- END LGBT-CN SIGNATURE -->
   <!-- 请不要更改上方的标签 -->
 
